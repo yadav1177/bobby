@@ -132,7 +132,7 @@ https://vvsolutions-server11.in/reshyatv_5/video.m3u8
 #EXTINF:-1  tvg-name="Kl" group-title="ENTERTAINMENT" tvg-logo="",YJ TV
 https://vvsolutions.in/yjtv/yjtv.m3u8
 
-#EXTINF:-1  tvg-name="Rk" group-title="Telugu" tvg-logo="",RK TV
+#EXTINF:-1  tvg-name="Rk" group-title="ENTERTAINMENT" tvg-logo="",RK TV
 https://vvsolutions.in/rktv_347/rktv_347.m3u8
 
 #EXTINF:-1  tvg-name="SB" group-title="ENTERTAINMENT" tvg-logo="",SB TV
