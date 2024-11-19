@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-name="Channel 9 News" group-title="Devotional" tvg-logo="",shakthitv
-https://cloud.smartplaytv.in/ShakthiTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-name="Channel 9 News" group-title="Devotional" tvg-logo="",bathukammatv
-https://tvonlive.in/Bathukamma_Tv/video.m3u8?token=veeraott
-
 
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240626_103545867679815344822295.png" group-title="ENTERTAINMENT",tvg-id="MercyTV.in",Mercy TV
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
@@ -287,7 +281,7 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="BHAKTI TV" tvg-logo="https://i.imgur.com/MG2neif.png" group-title="RELIGIOUS", BHAKTI TV
-https://starshare.live:443/live/Mubarak2024/Mu12312356@/34581.m3u8
+https://cloud.smartplaytv.in/ShakthiTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1254"  tvg-name="AASTHA TELUGU"  tvg-logo="https://i.imgur.com/EtoIeVg.png" group-title="RELIGIOUS"", AASTHA TELUGU
 http://opplex.live:8080/10863876/92018765/382292
