@@ -1,13 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240626_103545867679815344822295.png" group-title="ENTERTAINMENT",tvg-id="MercyTV.in",Mercy TV
-https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240626_103545867679815344822295.png" group-title="ENTERTAINMENT",tvg-id="TV",Play Now Local
-https://nspttv.blogspot.com/2024/02/live-18-day-7-samat.html?m=1
-
-
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240626_103545867679815344822295.png" group-title="ENTERTAINMENT", Tv7
 https://server.streamwell.in/hls/7hills.m3u8
 
