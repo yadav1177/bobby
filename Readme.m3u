@@ -256,7 +256,7 @@ http://14.102.123.50:5001/live/2065.m3u8
 #EXTINF:-1 tvg-id="MANA TV AP" tvg-name=" MANA TV AP" tvg-logo="https://i.imgur.com/OHmDE9p.png" group-title="NEWS",  MANA TV AP
 http://14.102.123.50:5001/live/1607.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="naaptontelugu.in" tvg-name="TELUGU NAAPTOL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Naaptol.png" group-title="ENTERTAINMENT", TELUGU NAAPTOL
+#EXTINF:-1 tvg-id="naaptontelugu.in" tvg-name="TELUGU NAAPTOL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Naaptol.png" group-title="ENTERTAINMENT", TELUGU NAAPTOL
 http://b1g.ooo:80/0282/0282/663379
 =========================================Devotional=====================================================================
 
@@ -406,52 +406,52 @@ https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/355504.m3u8
 
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
-https://rolextv.asia:443/admin123/admin123/59947
+http://filex.tv:8080/Kashif2400/2400/320
 
 #EXTINF:-1  tvg-id="big.in" tvg-name="BIG NEWS" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", BIG NEWS
 http://opplex.live:8080/10863876/92018765/382272
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
-http://opplex.live:8080/10863876/92018765/381094
+http://filex.tv:8080/Kashif2400/2400/5
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
-https://rolextv.asia:443/admin123/admin123/59949
+http://filex.tv:8080/Kashif2400/2400/246770
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
 https://rolextv.asia:443/admin123/admin123/59918
 
 #EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
-http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097624
+http://filex.tv:8080/Kashif2400/2400/123826
 
 #EXTINF:-1  tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/bFtkF5H.jpg" group-title=" KIDS", BABY TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/311478
+http://filex.tv:8080/Kashif2400/2400/495307
 
 #EXTINF:-1  tvg-id="DisneyChannel.in" tvg-name="DISNEY CHANNEL"tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="KIDS", DISNEY CHANNEL
-http://101405565544321215.ofds1114.xyz:80/live/zh45134/HdYCaWmTAeVG/321215.ts
+http://filex.tv:8080/Kashif2400/2400/246763
 
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/XkTwaby.png" group-title=" KIDS", DISNEY JUNIOR
-http://101405565544321217.ofds1114.xyz:80/live/zh45134/HdYCaWmTAeVG/321217.ts
+http://filex.tv:8080/Kashif2400/2400/123848
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="KIDS", DISNEY XD
 http://m1-max.dns-speedy.com:80/35F56F/50945D/105369
 
 #EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
-http://101405565544957517.ofds1114.xyz:80/live/zh45134/HdYCaWmTAeVG/957517.ts
+http://filex.tv:8080/Kashif2400/2400/9
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
-http://m1-max.dns-speedy.com:80/35F56F/50945D/118075
+http://filex.tv:8080/Kashif2400/2400/495324
 
 #EXTINF:-1  tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://i.imgur.com/xyY6OlN.png group-title="KIDS", NICKTOONS
 http://m1-max.dns-speedy.com:80/35F56F/50945D/118077
 
 #EXTINF:-1  tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/pjjX4rP.png" group-title="KIDS", BOOMERANG
-http://m1-max.dns-speedy.com:80/35F56F/50945D/269126
+http://filex.tv:8080/Kashif2400/2400/495308
 
 #EXTINF:-1  tvg-id="DiscoveryKids.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
-https://rolextv.asia:443/admin123/admin123/59945
+http://filex.tv:8080/Kashif2400/2400/246765
 
 #EXTINF:-1  tvg-id="NickHDPlus.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
-http://103.174.195.4:8000/play/a01n
+http://filex.tv:8080/Kashif2400/2400/11
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+" tvg-logo="https://i.imgur.com/9spEdvT.png" group-title="KIDS", CARTOON NETWORK HD+ 
 http://101405565544964826.ofds1114.xyz:80/live/zh45134/HdYCaWmTAeVG/964826.ts
@@ -462,16 +462,16 @@ http://101405565544964826.ofds1114.xyz:80/live/zh45134/HdYCaWmTAeVG/964826.ts
 http://opplex.tv:8080/Saifullah222/Saifullah222/206279
 
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY TV 18 
-https://rolextv.asia:443/admin123/admin123/59925
+http://filex.tv:8080/Kashif2400/2400/246722
 
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/BzOkwXi.jpg" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC WILD
-http://opplex.live:8080/10863876/92018765/381099
+http://filex.tv:8080/Kashif2400/2400/246728
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="SONY BBC EARTH" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH 
-https://starshare.live:443/live/Mubarak2024/Mu12312356@/223.m3u8
+http://filex.tv:8080/Kashif2400/2400/246730
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
-http://opplex.live:8080/10863876/92018765/381095
+http://filex.tv:8080/Kashif2400/2400/246734
 
 #EXTINF:-1 tvg-id="NationalGeographicChannel.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
 https://rolextv.asia:443/admin123/admin123/59922
@@ -480,16 +480,16 @@ https://rolextv.asia:443/admin123/admin123/59922
 http://xtv.ooo:8080/54248765/34876543/352651
 
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="DOCUMENTARY", ANIMAL PLANET
-http://opplex.tv:8080/Saifullah222/Saifullah222/109975
+http://filex.tv:8080/Kashif2400/2400/246720
 
 #EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="DISCOVERY SCIENCE ENGLISH" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="DOCUMENTARY", DISCOVERY SCIENCE ENGLISH
-http://opplex.tv:8080/Saifullah222/Saifullah222/206289
+http://filex.tv:8080/Kashif2400/2400/246736
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="DOCUMENTARY", DISCOVERY TURBO
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="INVESTIGATION DISCOVERY " tvg-logo="https://i.imgur.com/dwhWwHB.png" group-title="DOCUMENTARY", INVESTIGATION DISCOVERY
-http://opplex.tv:8080/Saifullah222/Saifullah222/206291
+http://filex.tv:8080/Kashif2400/2400/246738
 
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="EPIC" tvg-logo="https://i.imgur.com/z1qAnSi.png" group-title="DOCUMENTARY", EPIC
 http://xtv.ooo:8080/54248765/34876543/206296
@@ -574,7 +574,7 @@ https://starshare.live:443/live/Mubarak2024/Mu12312356@/216.m3u8
 http://cdn.troya.one:80/ch1988/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCpFZbpMMqq-6-4vFTZzyqSBH3QV-i0fbkSlM6VW0S_5
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
-http://dream8k.pro:80/Kam/Kam/7888
+http://filex.tv:8080/Kashif2400/2400/52094
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/yfslQep.png" group-title="SPORTS", STAR SPORTS 2 
 http://dream8k.pro:80/Kam/Kam/82400
@@ -583,10 +583,10 @@ http://dream8k.pro:80/Kam/Kam/82400
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/1080.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="STAR SPORTS SELCT 1 HD" tvg-logo="https://i.imgur.com/uzspvbf.png" group-title="SPORTS", STAR SPORTS SELECT 1 
-http://dream8k.pro:80/Kam/Kam/161938
+http://filex.tv:8080/Kashif2400/2400/52098
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="STAR SPORTS SELCT 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCT 2 
-https://rolextv.asia:443/admin123/admin123/109110
+http://filex.tv:8080/Kashif2400/2400/52100
 
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
 http://dream8k.pro:80/Kam/Kam/161937
