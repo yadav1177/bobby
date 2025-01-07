@@ -185,7 +185,6 @@ https://github.com/user-attachments/assets/e5a8701e-b986-47f9-8596-5d76cbd2d48a
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/ygV5pkS.png" group-title="ENTERTAINMENT", ETV HD
 http://supersonictv.live:8080/738641/830194/85615
 
-
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
 http://xtv.ooo:8080/874246786/743567899/250851
 
@@ -201,7 +200,6 @@ http://ktv.im:8080/8000865368/4663112367/83912
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/xaugX6V.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://opplex.live:8080/12dx5862/666999/388679
 
-
 #EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="STAR MAA MOVIES" tvg-logo="https://i.imgur.com/5z8uBP7.png" group-title="ENTERTAINMENT", STAR MAA MOVIES 
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/98887.m3u8
 
@@ -212,7 +210,7 @@ https://starshare.live:443/live/Mubarak2024/Mu12312356@/9043.m3u8
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/57772.m3u8
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/vrhpeGk.jpg" group-title="ENTERTAINMENT", GEMINI TV 
-https://starshare.live:443/live/Mubarak2024/Mu12312356@/98892.m3u8
+http://elit64.com:2086/kayaalpyasin/ewwTIlAzlA/162138
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/212.m3u8
