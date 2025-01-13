@@ -183,19 +183,19 @@ https://github.com/user-attachments/assets/647fc793-3f01-4887-933c-766041e27ab8
 https://github.com/user-attachments/assets/e5a8701e-b986-47f9-8596-5d76cbd2d48a
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/ygV5pkS.png" group-title="ENTERTAINMENT", ETV HD
-http://supersonictv.live:8080/738641/830194/85615
+https://d7rw24rjxc0ra.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
-http://xtv.ooo:8080/874246786/743567899/250851
+https://d3l6wdq9op77vw.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_CINEMA_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/J7UcNO3.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://ktv.im:8080/8000865368/4663112367/83911
+http://ktv.im:8080/8000865368/4663112367/83911https://d1ukkqluw2r4g5.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_ABHIRUCHI_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/goYxcA3.png" group-title="LIFESTYLE", ETV LIFE
-http://ktv.im:8080/8000865368/4663112367/83948
+https://d1s3zdjcu5tny9.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_LIFE_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/I69HWD3.png" group-title="LIFESTYLE", ETV PLUS
-http://ktv.im:8080/8000865368/4663112367/83912
+https://dw56h1aaay8sg.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_PLUS_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/xaugX6V.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://opplex.live:8080/12dx5862/666999/388679
@@ -522,10 +522,10 @@ http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155864
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/52504.m3u8
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV ANDHRA PRADESH" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="NEWS", ETV ANDHRA PRADESH 
-https://starshare.live:443/live/Mubarak2024/Mu12312356@/9046.m3u8
+https://d1missilavut3r.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_AP_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV TELANGANA" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="NEWS", ETV TELANGANA 
-https://starshare.live:443/live/Mubarak2024/Mu12312356@/9050.m3u8
+https://d3ixok5ip38laf.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_TS_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="v6telugu.in" tvg-name="V6 NEWS" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/228.m3u8
