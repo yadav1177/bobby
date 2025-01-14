@@ -2427,8 +2427,10 @@ https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/play
 http://103.147.60.4:1935/live/jayamtv/index.m3u8
 #EXTINF:-1  tvg-name="PCN Channel" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_2322551345866312332877105.png",PCN Channel
 http://103.98.62.134:8080/gtv/gtv.m3u8
+
 #EXTINF:-1  tvg-name="Royal Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240409_0824211724653237984049786.png",Royal Tv
 https://streamspace.live/hls/jptv/livestream.m3u8
+
 #EXTINF:-1  tvg-name="RCN Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0641135483463871761974250.png",RCN Tv
 https://live.we2live.in/rcntv/rcntv/playlist.m3u8
 
@@ -2437,50 +2439,73 @@ https://live.we2live.in/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Cinemania 4k" group-title="Tamil Premium" tvg-logo="http://b1g.pw/logos2/CineMania4K_tamil.jpg",Cinemania 4K
 http://b1g.ooo:80/Rodrigo/Rodrigo123/425731
+
 #EXTINF:-1  tvg-name="Cinemania" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/xFrH2L0/1000150257.jpg",Cinemania 1
 http://b1g.ooo:80/Rodrigo/Rodrigo123/385189
+
 #EXTINF:-1  tvg-name="Cinemania" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/xFrH2L0/1000150257.jpg",Cinemania 2
 http://b1g.ooo:80/Rodrigo/Rodrigo123/385188
+
 #EXTINF:-1  tvg-name="Cinemania" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/xFrH2L0/1000150257.jpg",Cinemania 3
 http://b1g.ooo:80/Rodrigo/Rodrigo123/385187
+
 #EXTINF:-1  tvg-name="Cinemania" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/xFrH2L0/1000150257.jpg",Cinemania 4
 http://b1g.ooo:80/Rodrigo/Rodrigo123/385186
+
 #EXTINF:-1  tvg-name="Cinemania" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/xFrH2L0/1000150257.jpg",Cinemania 5
 http://b1g.ooo:80/Rodrigo/Rodrigo123/385185
+
 #EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 1
 http://200.26.188.39:80/play/live.php?mac=00:1a:79:00:01:01&stream=734185&extension=ts&play_token=fx2dqiDWHw
+
 #EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 2
 http://200.26.188.39:80/play/live.php?mac=00:1a:79:00:01:01&stream=734186&extension=ts&play_token=I70fhu6Ers
+
 #EXTINF:-1  tvg-name="Tamil cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 3
 http://200.26.188.39:80/play/live.php?mac=00:1a:79:00:01:01&stream=734174&extension=ts&play_token=Hn3pAViflO
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 4
 http://200.26.188.39:80/play/live.php?mac=00:1a:79:00:01:01&stream=734175&extension=ts&play_token=rWRhTbyexY
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 5
 http://200.26.188.39:80/play/live.php?mac=00:1A:79:00:01:01&stream=734160&extension=ts&play_token=w9RXNuUGOz
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 6
 http://200.26.188.39:80/play/live.php?mac=00:1A:79:00:01:01&stream=734172&extension=ts&play_token=EKUtz6qxXN
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 7
 http://200.26.188.39:80/play/live.php?mac=00:1A:79:00:01:01&stream=734169&extension=ts&play_token=iJtskXofsK
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 8
 http://200.26.188.39:80/play/live.php?mac=00:1A:79:00:01:01&stream=734163&extension=ts&play_token=73p0A17uzE
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 9
 http://200.26.188.39:80/play/live.php?mac=00:1A:79:00:01:01&stream=734159&extension=ts&play_token=RWiDZWSEiy
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 10
 http://200.26.188.39:80/play/live.php?mac=00:1A:79:00:01:01&stream=734166&extension=ts&play_token=RWiDZWSEiy
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 11
 http://opplextv.cyou:8080/Olivia/Olivia/301492
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 12
 http://opplextv.cyou:8080/Olivia/Olivia/301493
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 13
 http://opplextv.cyou:8080/Olivia/Olivia/301494
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 14
 http://opplextv.cyou:8080/Olivia/Olivia/301495
+
 #EXTINF:-1  tvg-name="Tamil Cinema" group-title="Tamil Premium" tvg-logo="https://i.ibb.co/KFHXF5F/images.jpg",Tamil Cinema HD 15
 https://starshare.live:443/live/qwer/qwer/121315.ts
+
 #EXTINF:-1  tvg-name="Tamil Songs" group-title="Tamil Premium" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs 1
 https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=5841
+
 #EXTINF:-1  tvg-name="Tamil Songs" group-title="Tamil Premium" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs 2
 https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=5842
+
 #EXTINF:-1  tvg-name="Tamil Songs" group-title="Tamil Premium" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs 3
 https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=5843
 
@@ -2494,34 +2519,46 @@ https://sn.vodep39240327.workers.dev/stream/@Sunnewstamil/master.m3u8
 https://jmp2.uk/sam-INBD25000148M.m3u8
 #EXTINF: -1 tvg-id="702" tvg-chno="194" tvg-logo="https://tatalogo.pages.dev/702.png" group-title="News", News J
 https://cdn2.pishow.tv/live/268/master.m3u8
+
 #EXTINF: -1 tvg-id="524" tvg-chno="195" tvg-logo="https://tatalogo.pages.dev/524.png" group-title="News", Thanthi TV
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
+
 #EXTINF: -1 tvg-id="220" tvg-chno="196" tvg-logo="https://tatalogo.pages.dev/220.png" group-title="News", Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
 #EXTINF: -1 tvg-id="ZeeTamil.in" tvg-chno="197" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1720524862135127431598069.png" group-title="News", Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+
 #EXTINF: -1 tvg-id="968" tvg-chno="198" tvg-logo="https://tatalogo.pages.dev/968.png" group-title="News", News Tamil 24x7
 https://cdn1.pishow.tv/live/248/master.m3u8
 #EXTINF: -1 tvg-id="509" tvg-chno="199" tvg-logo="https://tatalogo.pages.dev/509.png" group-title="News", Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
 #EXTINF: -1 tvg-id="391" tvg-chno="200" tvg-logo="https://tatalogo.pages.dev/391.png" group-title="News", MalaiMurasu Seithigal
 https://cdn3.pishow.tv/live/244/master.m3u8
+
 #EXTINF: -1 tvg-id="525" tvg-chno="200" tvg-logo="https://tatalogo.pages.dev/525.png" group-title="News", Raj News
 https://tnm3u.in.net/youtube/stream.php?c=@rajnewstamil
+
 #EXTINF: -1 tvg-id="1317" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TAMILJNM_Thumbnail-v6/TAMILJNM_Thumbnail.png" group-title="News", Tamil Janam
 https://ythls-v3.onrender.com/channel/UCgZxM9BVOWr1w9Edi79Wg5w.m3u8
+
 #EXTINF: -1 tvg-id="968" tvg-chno="198" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2024254898682553893825274.png" group-title="News", M Nadu
 https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
+
 #EXTINF: -1 tvg-id="968" tvg-chno="198" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240623_015042903210301624236001.png" group-title="News", tv9 Tamil
 
 #EXTINF: -1 tvg-id="198" tvg-chno="201" tvg-logo="https://tatalogo.pages.dev/198.png" group-title="News", Jaya Plus
 https://ythls-v3.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8?playlist=index
+
 #EXTINF: -1 tvg-id="" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240606_1005063335019012635312549.png" group-title="News", Sathiyam TV
 https://cdn1.pishow.tv/live/242/master.m3u8
 #EXTINF: -1 tvg-id="44" tvg-chno="203" tvg-logo="https://tatalogo.pages.dev/44.png" group-title="News", Seithigal TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF: -1 tvg-id="673" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0058221296057793002455467.png" group-title="News", News7 Tamil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+
 #EXTINF: -1 tvg-id="" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240520_2336496929188746513153355.png" group-title="News", Kumudam News
 https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
 
