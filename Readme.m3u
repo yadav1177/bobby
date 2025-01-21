@@ -189,7 +189,7 @@ https://d7rw24rjxc0ra.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a8
 https://d3l6wdq9op77vw.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_CINEMA_H264/index.m3u8
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/J7UcNO3.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://ktv.im:8080/8000865368/4663112367/83911https://d1ukkqluw2r4g5.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_ABHIRUCHI_H264/index.m3u8
+https://starshare.live:443/live/jonyahmedjoy/8706543/9053.ts
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/goYxcA3.png" group-title="LIFESTYLE", ETV LIFE
 https://d1s3zdjcu5tny9.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_LIFE_H264/index.m3u8
@@ -213,7 +213,7 @@ http://yk96.xyz:8181/live/123456/123456/228380.m3u8
 http://wanicelife.com:8880/D12m2940/95455459/1900
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
-http://megaott.live:8080/45ffgauksas/gu8krWn2CuxE/5010
+https://starshare.live:443/live/7727626893/7727626893/23797.ts
 
 #EXTINF:-1 tvg-id="geminilife.in" tvg-name="GEMINI LIFE"  tvg-logo="https://i.imgur.com/QYVnr14.png" group-title="ENTERTAINMENT", GEMINI LIFE
 http://bostv.one:8080/6426606/7375565/94229
@@ -247,12 +247,6 @@ http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097627
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-name="STUDIO YUVA" tvg-logo="https://i.imgur.com/dikx5gr.png" group-title="ENTERTAINMENT", STUDIO YUVA
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097628
-
-#EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="https://i.imgur.com/dLcroXZ.png" group-title="MUSIC", SAREGAMA MUSIC
-http://14.102.123.50:5001/live/2065.m3u8
-
-#EXTINF:-1 tvg-id="MANA TV AP" tvg-name=" MANA TV AP" tvg-logo="https://i.imgur.com/OHmDE9p.png" group-title="NEWS",  MANA TV AP
-http://14.102.123.50:5001/live/1607.m3u8
 
 #EXTINF:-1 tvg-id="naaptontelugu.in" tvg-name="TELUGU NAAPTOL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Naaptol.png" group-title="ENTERTAINMENT", TELUGU NAAPTOL
 http://b1g.ooo:80/0282/0282/663379
@@ -306,28 +300,28 @@ http://opplex.live:8080/10863876/92018765/382281
 #EXTINF:-1 tvg-ID="" tvg-name="NIREEKSHANA TV" tvg-logo="https://i.imgur.com/BPheTrd.png" tvg-logo="" group-title="RELIGIOUS", NIREEKSHANA TV
 http://m1-max.dns-speedy.com:80/35F56F/50945D/1441530
 
-#EXTINF:-1 tvg-id=1418 tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ichhapuran Balaji Rajasthan
+#EXTINF:-1 tvg-id=1418 tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png" tvg-language="" tvg-type="Devotional" group-title="Devotional", Ichhapuran Balaji Rajasthan
 http://14.102.123.50:5001/live/1418.m3u8
 
-#EXTINF:-1 tvg-id=1419 tvg-name="Iskon Girgaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Iskon_Girgaon.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Iskon Girgaon
+#EXTINF:-1 tvg-id=1419 tvg-name="Iskon Girgaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Iskon_Girgaon.png" tvg-language="Marathi" tvg-type="" group-title="Devotional", Iskon Girgaon
 http://14.102.123.50:5001/live/1419.m3u8
 
-#EXTINF:-1 tvg-id=1420 tvg-name="Ashtavinayak Ranjangaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Ashtavinayak_Ranjangaon.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Ashtavinayak Ranjangaon
+#EXTINF:-1 tvg-id=1420 tvg-name="Ashtavinayak Ranjangaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Ashtavinayak_Ranjangaon.png" tvg-language="" tvg-type="Devotional" group-title="Devotional", Ashtavinayak Ranjangaon
 http://14.102.123.50:5001/live/1420.m3u8
 
-#EXTINF:-1 tvg-id=1421 tvg-name="Karani Mata Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Karani_Mata_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Karani Mata Rajasthan
+#EXTINF:-1 tvg-id=1421 tvg-name="Karani Mata Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Karani_Mata_Rajasthan.png" tvg-language="" tvg-type="Devotional" group-title="Devotional", Karani Mata Rajasthan
 http://14.102.123.50:5001/live/1421.m3u8
 
-#EXTINF:-1 tvg-id=1422 tvg-name="Mahalaxmi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mahalaxmi_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Mahalaxmi Mumbai
+#EXTINF:-1 tvg-id=1422 tvg-name="Mahalaxmi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mahalaxmi_Mumbai.png" tvg-language="" tvg-type="Devotional" group-title="Devotional", Mahalaxmi Mumbai
 http://14.102.123.50:5001/live/1422.m3u8
 
-#EXTINF:-1 tvg-id=1423 tvg-name="Babulnaath Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Babulnaath_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Babulnaath Mumbai
+#EXTINF:-1 tvg-id=1423 tvg-name="Babulnaath Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Babulnaath_Mumbai.png" tvg-language="" tvg-type="Devotional" group-title="Devotional", Babulnaath Mumbai
 http://14.102.123.50:5001/live/1423.m3u8
 
-#EXTINF:-1 tvg-id=1424 tvg-name="Mumbadevi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mumbadevi_Mumbai.png" tvg-language="Marathi" tvg-type="DEVOTIONAL"" group-title="Devotional", Mumbadevi Mumbai
+#EXTINF:-1 tvg-id=1424 tvg-name="Mumbadevi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mumbadevi_Mumbai.png" tvg-language="" tvg-type="DEVOTIONAL"" group-title="Devotional", Mumbadevi Mumbai
 http://14.102.123.50:5001/live/1424.m3u8
 
-#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://14.102.123.50:5001/jtvimage/Santvani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="DEVOTIONAL", Santvani
+#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://14.102.123.50:5001/jtvimage/Santvani.png" tvg-language="" tvg-type="Devotional" group-title="DEVOTIONAL", Santvani
 http://14.102.123.50:5001/live/1426.m3u8
 
 
@@ -389,10 +383,10 @@ https://ythls.armelin.one/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-logo="https://i.imgur.com/8puDFoq.png" group-title="NEWS", DD NEWS
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/4043.m3u8
 
-#EXTINF:-1 tvg-id="DDPodhigai.in" tvg-name="" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="Undefined",DD Podhigai 
+#EXTINF:-1 tvg-id="DDPodhigai.in" tvg-name="" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="NEWS",DD Podhigai 
 https://ythls.armelin.one/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8
 
-#EXTINF:-1 tvg-id="DDPuducherry.in" tvg-name="" tvg-logo="https://i.imgur.com/bulvdUN.png" group-title="Undefined",DD Puducherry 
+#EXTINF:-1 tvg-id="DDPuducherry.in" tvg-name="" tvg-logo="https://i.imgur.com/bulvdUN.png" group-title="NEWS",DD Puducherry 
 https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8
 
 
