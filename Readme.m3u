@@ -204,7 +204,7 @@ http://yk96.xyz:8181/live/123456/123456/228381.m3u8
 http://yk96.xyz:8181/live/123456/123456/228379.m3u8
 
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/rPVIPyW.jpg" group-title="ENTERTAINMENT", STAR MAA GOLD 
-http://bostv.one:8080/6426606/7375565/94232
+http://watchindia.net:8880/live/83525/42965/935.ts
 
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/BCK7Q6j.jpg" group-title="MUSIC", STAR MAA MUSIC
 http://yk96.xyz:8181/live/123456/123456/228380.m3u8
@@ -216,25 +216,25 @@ http://wanicelife.com:8880/D12m2940/95455459/1900
 https://starshare.live:443/live/7727626893/7727626893/23797.ts
 
 #EXTINF:-1 tvg-id="geminilife.in" tvg-name="GEMINI LIFE"  tvg-logo="https://i.imgur.com/QYVnr14.png" group-title="ENTERTAINMENT", GEMINI LIFE
-http://bostv.one:8080/6426606/7375565/94229
+http://watchindia.net:8880/live/83525/42965/931.ts
 
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="ENTERTAINMENT", GEMINI COMEDY
-http://bostv.one:8080/6426606/7375565/94237
+http://watchindia.net:8880/live/83525/42965/971.ts
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
-http://bostv.one:8080/6426606/7375565/94231
+http://watchindia.net:8880/live/83525/42965/929.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
 https://starshare.live:443/live/7727626893/7727626893/1605.ts
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
-http://ktv.im:8080/8000865368/4663112367/83924
+http://watchindia.net:8880/live/83525/42965/941.ts
 
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
-http://ktv.im:8080/8000865368/4663112367/83915
+http://watchindia.net:8880/live/83525/42965/942.ts
 
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/b2A7eY0.png" group-title="MUSIC", RAJ MUSIC TELUGU
-http://ktv.im:8080/8000865368/4663112367/83932
+http://watchindia.net:8880/live/83525/42965/957.ts
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE", VANITHA TV
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155871
