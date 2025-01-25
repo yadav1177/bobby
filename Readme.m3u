@@ -614,10 +614,10 @@ https://allinonereborn.com/sonylive.m3u8?ch=ten4hd&id=2020589
 https://allinonereborn.com/sonylive.m3u8?ch=SONYSIXHD&id=2020593
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/qRIhhay.png" group-title="SPORTS", WILLOW CRICKET HD
-http://supersonictv.live:8080/738641/830194/85650
+https://crichd.onlinetvbd.com/m3u8.php/willowusa.m3u8
 
-#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW EXTRA HD" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="SPORTS",WILLOW EXTRA HD
-http://supersonictv.live:8080/738641/830194/85651
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW EXTRA HD" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="SPORTS",https://crichd.onlinetvbd.com/m3u8.php/willowextra.m3u8HD
+https://crichd.onlinetvbd.com/m3u8.php/willowextra.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD SPORTS" tvg-logo="https://i.imgur.com/ef2aaCz.jpg" group-title="SPORTS", DD SPORTS
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/4044.m3u8
@@ -625,13 +625,13 @@ https://starshare.live:443/live/Mubarak2024/Mu12312356@/4044.m3u8
 ==============================================ENGLISH======================================================================================================================
 
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX HD" tvg-logo="https://i.imgur.com/O0vSVMI.png" group-title="ENTERTAINMENT", SONY PIX HD
-http://opplex.live:8080/10863876/92018765/381093
+http://stb.iphd.tv:80/live/87038122/8869651/102525.ts
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES" tvg-logo="https://i.imgur.com/uStd85l.png" group-title="ENTERTAINMENT", STAR MOVIES
-http://opplex.tv:8080/Saifullah222/Saifullah222/109970
+http://stb.iphd.tv:80/live/87038122/8869651/102496.ts
 
 #EXTINF:-1  tvg-id="139" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" tvg-chno="74" group-title="ENTERTAINMENT",HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
+http://stb.iphd.tv:80/live/87038122/8869651/118479.ts
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL" tvg-logo="https://i.imgur.com/gPgGnkC.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
 http://67288675027312839.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/312839.ts
@@ -643,10 +643,10 @@ http://67288675027321119.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/321119.ts
 http://67288675027812160.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/812160.ts
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& FLIX HD" tvg-logo="https://i.imgur.com/UocrKIz.png" group-title="ENTERTAINMENT", & FLIX HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/109962
+http://stb.iphd.tv:80/live/87038122/8869651/102546.ts
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& PRIVE HD" tvg-logo="https://i.imgur.com/qyK4ceT.png" group-title="ENTERTAINMENT", & PRIVE HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/109963
+http://stb.iphd.tv:80/live/87038122/8869651/102536.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="& Xplorer" tvg-logo="" group-title="ENTERTAINMENT",& Xplorer (4K)
 http://opplex.tv:8080/Saifullah222/Saifullah222/109964
@@ -692,10 +692,10 @@ http://103.178.58.10:8000/play/a00h/index.m3u8
 http://opplex.tv:8080/Saifullah222/Saifullah222/109949
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" tvg-logo="https://i.imgur.com/QgP64Zf.png" group-title="ENTERTAINMENT", STAR GOLD HD 
-http://103.178.58.10:8000/play/a04x/index.m3u8
+http://stb.iphd.tv:80/live/87038122/8869651/102497.ts
 
 #EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/xJvKDRE.png" group-title="ENTERTAINMENT", Star Utsav
-http://watchindia.net:8880/live/24787/85016/2493.ts
+http://stb.iphd.tv:80/live/87038122/8869651/102532.ts
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT", Star Gold Select
 http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -715,11 +715,11 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/189474
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="ENTERTAINMENT", STAR GOLD SELECT 
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275051
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="" group-title="ENTERTAINMENT", STAR MOVIES SELECT 
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275054
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT HD" tvg-logo="" group-title="ENTERTAINMENT", STAR MOVIES SELECT HD
+http://stb.iphd.tv:80/live/87038122/8869651/102518.ts
 
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" tvg-logo="https://i.imgur.com/K2Ksc1E.jpg" group-title="ENTERTAINMENT", ZEE CINEMA
-hhttp://supersonictv.live:8080/738641/830194/85543
+http://stb.iphd.tv:80/live/87038122/8869651/102494.ts
 
 #EXTINF:-1 tvg-id="zeeaction.in" tvg-name="" tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="ENTERTAINMENT", ZeeAction
 http://watchindia.net:8880/live/24787/85016/821.ts
@@ -740,7 +740,7 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275060
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279513
 
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="ZEE TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="ENTERTAINMENT", ZEE TV
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/277208
+http://stb.iphd.tv:80/live/87038122/8869651/102534.ts
 
 #EXTINF:-1 tvg-id="zee.zest.in" tvg-name="ZEE ZEST HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="ENTERTAINMENT",Zee Zest HD
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/277208
@@ -748,8 +748,14 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/277208
 #EXTINF:-1 tvg-id="" tvg-name="ZING TV" tvg-logo="https://i.imgur.com/1F5Jz2X.png" group-title="ENTERTAINMENT", Zing Tv
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/106
 
+#EXTINF:-1 tvg-id="B4UMoviesIndia.in"  tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies", B4U MOVIE
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58354
+
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="B4U BHOJPURI" tvg-logo="https://i.imgur.com/UqgbSZm.png?1" group-title="MOVIES", B4U BHOJPURI
+http://stb.iphd.tv:80/live/87038122/8869651/102533.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/elb6nPN.png" group-title="ENTERTAINMENT", B4U Kadak
-https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
+http://stb.iphd.tv:80/live/87038122/8869651/102535.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="JOU MUSIC" tvg-logo="https://i.imgur.com/WAp7Bnv.png" group-title="MUSIC", Jou MUSIC 
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -786,6 +792,9 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LOKSHAHI" tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ANB NEWS" tvg-logo="https://i.imgur.com/zVr4Cbb.png" group-title="India", ANB NEWS
+http://stb.iphd.tv:80/live/87038122/8869651/102549.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE 24 TAAS" tvg-logo="https://i.imgur.com/dwem3kE.jpg" group-title="News", ZEE 24 TAAS
 http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/155762
@@ -879,12 +888,6 @@ https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66
 
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies", B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF:-1 tvg-id="B4UMoviesIndia.in"  tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies", B4U MOVIE
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58354
-
-#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="B4U BHOJPURI" tvg-logo="https://i.imgur.com/UqgbSZm.png?1" group-title="MOVIES", B4U BHOJPURI
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58215
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="BALLE BALLE TV" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="MUSIC",Balle Balle 
 https://mcncdndigital.com/balleballetv/index.m3u8
