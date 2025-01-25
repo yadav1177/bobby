@@ -2660,6 +2660,7 @@ https://ythls-v3.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8?playlist=ind
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240606_1005063335019012635312549.png" group-title="News", Sathiyam TV
 https://cdn1.pishow.tv/live/242/master.m3u8
+
 #EXTINF: -1 tvg-id="44" tvg-chno="203" tvg-logo="https://tatalogo.pages.dev/44.png" group-title="News", Seithigal TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=14505&deviceMac=00:1A:79:A7:53:75
 
