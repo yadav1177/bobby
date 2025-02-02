@@ -240,7 +240,7 @@ http://watchindia.net:8880/live/83525/42965/957.ts
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155871
 
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
-http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097617
+https://amit-1.allinonereborn.in/jiobe1.m3u8?id=1650
 
 #EXTINF:-1 tvg-id="studio one" tvg-name="STUDIO ONE" tvg-logo="https://i.imgur.com/jldGnQa.jpg" group-title="ENTERTAINMENT", STUDIO ONE
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097627
@@ -252,13 +252,13 @@ http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097628
 http://b1g.ooo:80/0282/0282/663379
 =========================================Devotional=====================================================================
 
-#EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC 2 " tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS", SVBC 2 
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC TAMIL" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS", SVBC TAMIL 
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC 3" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS", SVBC 3 
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC KANNADAM" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS", SVBC KANNADAM
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SVBC4.in" tvg-name="SVBC 4" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS", SVBC 4 
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-name="SVBC HINDI" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS", SVBC HINDI 
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SVBCTelugu.in" tvg-name="SVBC TELUGU" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS", SVBC TELUGU
@@ -271,7 +271,7 @@ https://cloud.smartplaytv.in/ShakthiTv/tracks-v1a1/mono.m3u8
 https://live.drmlive-02.workers.dev/zee/9z5398768.m3u8
 
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
-http://opplex.live:8080/10863876/92018765/382293
+https://allinonereborn.com/tata-tv.php?id=971
 
 #EXTINF:-1 tvg-id="" tvg-name="CVR OM Spiritual" tvg-logo="https://i.imgur.com/OSASigu.png group-title="RELIGIOUS", CVR OM SPIRITUAL
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097619
@@ -300,38 +300,6 @@ live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="NIREEKSHANA TV" tvg-logo="https://i.imgur.com/BPheTrd.png" tvg-logo="" group-title="RELIGIOUS", NIREEKSHANA TV
 http://m1-max.dns-speedy.com:80/35F56F/50945D/1441530
 
-#EXTINF:-1 tvg-id="ABNTVIndia.us" tvg-logo="https://i.imgur.com/VcZn60X.png" group-title="Religious", ABN TV India 
-https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-
-#EXTINF:-1 tvg-id="ABPGanga.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png" group-title="News", ABP Ganga 
-https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
-
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" group-title="News",ABP Majha
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-
-#EXTINF:-1 tvg-id=1418 tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png" tvg-language="" tvg-type="RELIGIOUS" group-title="Devotional", Ichhapuran Balaji Rajasthan
-http://14.102.123.50:5001/live/1418.m3u8
-
-#EXTINF:-1 tvg-id=1419 tvg-name="Iskon Girgaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Iskon_Girgaon.png" tvg-language="Marathi" tvg-type="" group-title="RELIGIOUS", Iskon Girgaon
-http://14.102.123.50:5001/live/1419.m3u8
-
-#EXTINF:-1 tvg-id=1420 tvg-name="Ashtavinayak Ranjangaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Ashtavinayak_Ranjangaon.png" tvg-language="" tvg-type="RELIGIOUS" group-title="Devotional", Ashtavinayak Ranjangaon
-http://14.102.123.50:5001/live/1420.m3u8
-
-#EXTINF:-1 tvg-id=1421 tvg-name="Karani Mata Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Karani_Mata_Rajasthan.png" tvg-language="" tvg-type="RELIGIOUS" group-title="Devotional", Karani Mata Rajasthan
-http://14.102.123.50:5001/live/1421.m3u8
-
-#EXTINF:-1 tvg-id=1422 tvg-name="Mahalaxmi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mahalaxmi_Mumbai.png" tvg-language="" tvg-type="RELIGIOUS" group-title="Devotional", Mahalaxmi Mumbai
-http://14.102.123.50:5001/live/1422.m3u8
-
-#EXTINF:-1 tvg-id=1423 tvg-name="Babulnaath Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Babulnaath_Mumbai.png" tvg-language="" tvg-type="RELIGIOUS" group-title="Devotional", Babulnaath Mumbai
-http://14.102.123.50:5001/live/1423.m3u8
-
-#EXTINF:-1 tvg-id=1424 tvg-name="Mumbadevi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mumbadevi_Mumbai.png" tvg-language="" tvg-type="RELIGIOUS"" group-title="Devotional", Mumbadevi Mumbai
-http://14.102.123.50:5001/live/1424.m3u8
-
-#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://14.102.123.50:5001/jtvimage/Santvani.png" tvg-language="" tvg-type="Devotional" group-title="RELIGIOUS, Santvani
-http://14.102.123.50:5001/live/1426.m3u8
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++DD INDIA +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
