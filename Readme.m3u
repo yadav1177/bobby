@@ -268,7 +268,7 @@ https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/play
 https://cloud.smartplaytv.in/ShakthiTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1254"  tvg-name="AASTHA TELUGU"  tvg-logo="https://i.imgur.com/EtoIeVg.png" group-title="RELIGIOUS"", AASTHA TELUGU
-http://opplex.live:8080/10863876/92018765/382292
+https://live.drmlive-02.workers.dev/zee/9z5398768.m3u8
 
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
 http://opplex.live:8080/10863876/92018765/382293
@@ -407,19 +407,22 @@ https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8
 https://starshare.live:443/live/Mubarak2024/Mu12312356@/355504.m3u8
 
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
-http://filex.tv:8080/Kashif2400/2400/320
+
 
 #EXTINF:-1  tvg-id="big.in" tvg-name="BIG NEWS" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", BIG NEWS
 http://opplex.live:8080/10863876/92018765/382272
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
-http://filex.tv:8080/Kashif2400/2400/5
+https://allinonereborn.com/tata-tv.php?id=9200
+
+#EXTINF:-1 tvg-id="58159" tvg-logo="https://i.imgur.com/8Zp1LT9.png" group-title="KIDS",SONIC TELUGU
+https://allinonereborn.com/tata-tv.php?id=58159
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+https://allinonereborn.com/tata-tv.php?id=58161
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
-https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
+https://allinonereborn.com/tata-tv.php?id=1059
 
 #EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
@@ -449,7 +452,7 @@ http://m1-max.dns-speedy.com:80/35F56F/50945D/118077
 http://filex.tv:8080/Kashif2400/2400/495308
 
 #EXTINF:-1  tvg-id="DiscoveryKids.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
-http://filex.tv:8080/Kashif2400/2400/246765
+https://allinonereborn.com/tata-tv.php?id=58157
 
 #EXTINF:-1  tvg-id="NickHDPlus.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
 http://filex.tv:8080/Kashif2400/2400/11
@@ -463,10 +466,10 @@ http://101405565544964826.ofds1114.xyz:80/live/zh45134/HdYCaWmTAeVG/964826.ts
 http://opplex.tv:8080/Saifullah222/Saifullah222/206279
 
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY TV 18 
-http://filex.tv:8080/Kashif2400/2400/246722
+https://allinonereborn.com/tata-tv.php?id=879
 
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/BzOkwXi.jpg" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC WILD
-http://filex.tv:8080/Kashif2400/2400/246728
+https://allinonereborn.com/tata-tv.php?id=9198
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="SONY BBC EARTH" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH 
 http://filex.tv:8080/Kashif2400/2400/246730
