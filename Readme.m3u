@@ -795,13 +795,16 @@ https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
 http://opplex.tv:8080/Saifullah222/Saifullah222/66192
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X JALWA" tvg-logo="https://i.imgur.com/4FRqlUw.png" group-title="MUSIC", 9X Jalwa
-http://opplex.tv:8080/Saifullah222/Saifullah222/66226
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="MUSIC", 9x Tashan
-http://opplex.tv:8080/Saifullah222/Saifullah222/66289
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-INBC2800011JL" tvg-id="INBC2800011JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20240131T032430SQUARE.png_20240131032431.png" tvg-chno="1439" group-title="Music" , 9X Tashan
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mastii" tvg-logo="https://i.imgur.com/tAu79uh.jpg" group-title="MUSIC", Mastii
-http://opplex.tv:8080/Saifullah222/Saifullah222/112988
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD MASALA" tvg-logo="https://i.imgur.com/54nv7oH.jpg" group-title="MUSIC", BOLLYWOOD MASALA
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/72906
@@ -1043,7 +1046,7 @@ https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 #EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="Undefined",Kaumudy TV 
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KhabarFast.in" tvg-name=""  tvg-logo="https://i.imgur.com/l5Li5Pd.png" group-title="Undefined",Khabar Fast 
+#EXTINF:-1 tvg-id="KhabarFast.in" tvg-name=""  tvg-logo="https://i.imgur.com/l5Li5Pd.png" group-title="NEWS",Khabar Fast 
 https://live.gbtechnology.in/khabarfast/khabarfast/index.m3u8
 
 #EXTINF:-1 tvg-id="KhabrainAbhiTak.in" tvg-name=""  tvg-logo="https://i.imgur.com/LIrolUQ.png" group-title="Undefined",Khabrain Abhi Tak 
