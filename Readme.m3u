@@ -224,10 +224,10 @@ http://watchindia.net:8880/live/83525/42965/971.ts
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
 https://starshare.live:443/live/7727626893/7727626893/213.ts
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
 http://watchindia.net:8880/live/83525/42965/940.ts
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
+#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://watchindia.net:8880/live/83525/42965/941.ts
 
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
@@ -599,7 +599,7 @@ https://starshare.live:443/live/Mubarak2024/Mu12312356@/4044.m3u8
 http://stb.iphd.tv:80/live/87038122/8869651/102525.ts
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES" tvg-logo="https://i.imgur.com/uStd85l.png" group-title="ENTERTAINMENT", STAR MOVIES
-http://stb.iphd.tv:80/live/87038122/8869651/102496.ts
+https://webhop.xyz:443/live/5976336097/4425004958/98842.ts
 
 #EXTINF:-1  tvg-id="139" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" tvg-chno="74" group-title="ENTERTAINMENT",HBO
 http://stb.iphd.tv:80/live/87038122/8869651/118479.ts
@@ -633,10 +633,10 @@ _____________________________________________________HINDI _____________________
 http://supersonictv.live:8080/738641/830194/85437
 
 #EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://i.imgur.com/BoIFSpT.png" group-title="ENTERTAINMENT", & TV HD
-http://103.178.58.10:8000/play/a022/index.m3u8
+https://webhop.xyz:443/live/5976336097/4425004958/98852.ts
 
 #EXTINF:-1 tvg-id="colors.in" tvg-name="COLORS" tvg-logo="https://i.imgur.com/kvyZM5c.png" group-title="ENTERTAINMENT", COLORS 
-http://opplex.tv:8080/Saifullah222/Saifullah222/219497
+https://webhop.xyz:443/live/5976336097/4425004958/9370.ts
 
 #EXTINF:-1 tvg-id="Sony.in" tvg-name="Sony" tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT", SONY
 http://supersonictv.live:8080/738641/830194/85635
@@ -648,7 +648,7 @@ http://supersonictv.live:8080/738641/830194/85642
 http://supersonictv.live:8080/738641/830194/85641
 
 #EXTINF:-1 tvg-id="sonywah.in" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/K8CHnFO.png" group-title="ENTERTAINMENT", SONY WAH
-http://watchindia.net:8880/live/24787/85016/814.ts
+https://webhop.xyz:443/live/5976336097/4425004958/4077.ts
 
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name=""tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT", SONY MAX 2 
 http://supersonictv.live:8080/738641/830194/85643
@@ -657,49 +657,49 @@ http://supersonictv.live:8080/738641/830194/85643
 http://supersonictv.live:8080/738641/830194/85638
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://i.imgur.com/941FzL1.png" group-title="ENTERTAINMENT", Star Bharat HD
-http://103.178.58.10:8000/play/a00h/index.m3u8
+https://webhop.xyz:443/live/5976336097/4425004958/98855.ts
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/gIWNqTS.png" group-title="ENTERTAINMENT", STAR Star Plus HD 
-http://opplex.tv:8080/Saifullah222/Saifullah222/109949
+https://webhop.xyz:443/live/5976336097/4425004958/98849.ts
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" tvg-logo="https://i.imgur.com/QgP64Zf.png" group-title="ENTERTAINMENT", STAR GOLD HD 
-http://stb.iphd.tv:80/live/87038122/8869651/102497.ts
+https://webhop.xyz:443/live/5976336097/4425004958/98858.ts
 
 #EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/xJvKDRE.png" group-title="ENTERTAINMENT", Star Utsav
-http://stb.iphd.tv:80/live/87038122/8869651/102532.ts
+https://webhop.xyz:443/live/5976336097/4425004958/158970.ts
 
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT", Star Gold Select
-http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="STAR GOLD SELECT" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT", STAR GOLD SELECT
+https://webhop.xyz:443/live/5976336097/4425004958/98859.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT", Star Gold Thrills
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD THRILLS" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT", Star Gold Thrills
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/189473
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
-http://opplex.tv:8080/Saifullah222/Saifullah222/109960
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD " tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT", STAR GOLD  
+https://webhop.xyz:443/live/5976336097/4425004958/98858.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT",Star Gold 2
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275050
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT", STAR GOLD 2
+https://webhop.xyz:443/live/5976336097/4425004958/157081.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT", Star Gold Romance
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/189474
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT", STAR GOLD ROMANCE
+https://webhop.xyz:443/live/5976336097/4425004958/972.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="ENTERTAINMENT", STAR GOLD SELECT 
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275051
+https://webhop.xyz:443/live/5976336097/4425004958/98859.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT HD" tvg-logo="" group-title="ENTERTAINMENT", STAR MOVIES SELECT HD
-http://stb.iphd.tv:80/live/87038122/8869651/102518.ts
+https://webhop.xyz:443/live/5976336097/4425004958/98843.ts
 
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" tvg-logo="https://i.imgur.com/K2Ksc1E.jpg" group-title="ENTERTAINMENT", ZEE CINEMA
-http://stb.iphd.tv:80/live/87038122/8869651/102494.ts
+https://webhop.xyz:443/live/5976336097/4425004958/98860.ts
 
-#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="" tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="ENTERTAINMENT", ZeeAction
-http://watchindia.net:8880/live/24787/85016/821.ts
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="ZEE ACTION" tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="ENTERTAINMENT", ZEE ACTION
+https://webhop.xyz:443/live/5976336097/4425004958/967.ts
 
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://i.imgur.com/ed7IKoM.jpg" group-title="ENTERTAINMENT", ZEE BOLLYWOOD
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275059
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE" tvg-logo="https://i.imgur.com/3186Ws1.jpg" group-title="ENTERTAINMENT", ZEE CAFE 
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275061
+https://webhop.xyz:443/live/5976336097/4425004958/98848.ts
 
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://i.imgur.com/77Vs2tt.jpg" group-title="ENTERTAINMENT", ZEE CLASSIC 
 http://watchindia.net:8880/live/24787/85016/802.ts
@@ -713,20 +713,20 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279513
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="ZEE TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="ENTERTAINMENT", ZEE TV
 http://stb.iphd.tv:80/live/87038122/8869651/102534.ts
 
-#EXTINF:-1 tvg-id="zee.zest.in" tvg-name="ZEE ZEST HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="ENTERTAINMENT",Zee Zest HD
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/277208
+#EXTINF:-1 tvg-id="zee.zest.in" tvg-name="ZEE ZEST HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="ENTERTAINMENT", ZEE ZEST HD
+https://webhop.xyz:443/live/5976336097/4425004958/380446.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ZING TV" tvg-logo="https://i.imgur.com/1F5Jz2X.png" group-title="ENTERTAINMENT", Zing Tv
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/106
+https://webhop.xyz:443/live/5976336097/4425004958/970.ts
 
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in"  tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies", B4U MOVIE
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58354
+https://webhop.xyz:443/live/5976336097/4425004958/968.ts
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="B4U BHOJPURI" tvg-logo="https://i.imgur.com/UqgbSZm.png?1" group-title="MOVIES", B4U BHOJPURI
-http://stb.iphd.tv:80/live/87038122/8869651/102533.ts
+https://webhop.xyz:443/live/5976336097/4425004958/355544.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/elb6nPN.png" group-title="ENTERTAINMENT", B4U Kadak
-http://stb.iphd.tv:80/live/87038122/8869651/102535.ts
+https://webhop.xyz:443/live/5976336097/4425004958/355545.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="JOU MUSIC" tvg-logo="https://i.imgur.com/WAp7Bnv.png" group-title="MUSIC", Jou MUSIC 
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -860,8 +860,6 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlis
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="AYUSH TV" tvg-logo="https://i.imgur.com/PWzvp0B.png" group-title="Lifestyle", Ayush TV 
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies", B4U Kadak 
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="BALLE BALLE TV" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="MUSIC",Balle Balle 
 https://mcncdndigital.com/balleballetv/index.m3u8
@@ -1541,6 +1539,98 @@ https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_token=oOPicFfGrH&stream=941587
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Asianet Movies" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="", Asianet Movies 
+https://webhop.xyz:443/live/5976336097/4425004958/177842.ts
+
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Asianet_Movies.png" group-title="",Asianet Movies SD
+https://webhop.xyz:443/live/5976336097/4425004958/9031.ts
+
+#EXTINF:-1 tvg-id="suryamovies.in" tvg-name="Malayalam: Surya Movies HD" tvg-logo="http://stariptv.fun/logos/Surya_Movies.png" group-title="",MSurya Movies HD
+https://webhop.xyz:443/live/5976336097/4425004958/9034.ts
+
+#EXTINF:-1 tvg-id="amritatv.in" tvg-name="MY: Amrita TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amrita_tv.png" group-title="",Amrita TV
+https://webhop.xyz:443/live/5976336097/4425004958/9028.ts
+
+#EXTINF:-1 tvg-id="kairalitv.in" tvg-name="MY: Kairali HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in.png" group-title="", Kairali HD
+https://webhop.xyz:443/live/5976336097/4425004958/9026.ts
+
+#EXTINF:-1 tvg-id="asianetplus.in" tvg-name="MY: Asianet Plus" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png" group-title="",Asianet Plus
+https://webhop.xyz:443/live/5976336097/4425004958/9027.ts
+
+#EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="",SURYA MUSIC
+https://webhop.xyz:443/live/5976336097/4425004958/9038.ts
+
+#EXTINF:-1 tvg-id="rajmusixmalayalam.in" tvg-name="MY: Raj Music Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raj-musix-malayalam-in.png" group-title="", Raj Music Malayalam
+https://webhop.xyz:443/live/5976336097/4425004958/245.ts
+
+#EXTINF:-1 tvg-id="suryacomedy.in" tvg-name="MY: SURYA COMEDY HD" tvg-logo="http://stariptv.fun/logos/Surya_Comedy.png" group-title="",SURYA COMEDY HD
+https://webhop.xyz:443/live/5976336097/4425004958/9033.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="REPORTER News HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reporter_tv.png" group-title="", REPORTER News HD
+https://webhop.xyz:443/live/5976336097/4425004958/166615.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="REPORTER News" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reporter_tv.png" group-title="", REPORTER News
+https://webhop.xyz:443/live/5976336097/4425004958/56032.ts
+
+#EXTINF:-1 tvg-id="news24.in" tvg-name="News 24 Malayalam HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24_news_in.png" group-title="", News 24 Malayalam HD
+https://webhop.xyz:443/live/5976336097/4425004958/166612.ts
+
+#EXTINF:-1 tvg-id="news24.in" tvg-name="News 24 Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/num/24_news_in.png" group-title="", News 24 Malayalam
+https://webhop.xyz:443/live/5976336097/4425004958/248.ts
+
+#EXTINF:-1 tvg-id="mediaone.in" tvg-name="Media One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" group-title="", Media One HD
+https://webhop.xyz:443/live/5976336097/4425004958/169796.ts
+
+#EXTINF:-1 tvg-id="mediaone.in" tvg-name="Media One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" group-title="", Media One
+https://webhop.xyz:443/live/5976336097/4425004958/9035.ts
+
+#EXTINF:-1 tvg-id="mathrubhuminews.in" tvg-name="Mathrubhumi News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" group-title="",Mathrubhumi News HD
+https://webhop.xyz:443/live/5976336097/4425004958/169786.ts
+
+#EXTINF:-1 tvg-id="mathrubhuminews.in" tvg-name="Mathrubhumi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" group-title="", Mathrubhumi News
+https://webhop.xyz:443/live/5976336097/4425004958/9032.ts
+
+#EXTINF:-1 tvg-id="asianetnews.in" tvg-name="Asianet News HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asianet_news.png" group-title="", Asianet News HD
+https://webhop.xyz:443/live/5976336097/4425004958/166605.ts
+
+#EXTINF:-1 tvg-id="asianetnews.in" tvg-name="Asianet News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-News.png" group-title="", Asianet News
+https://webhop.xyz:443/live/5976336097/4425004958/165.ts
+
+#EXTINF:-1 tvg-id="kairalinews.in" tvg-name="Kairali News HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali-news-in.png" group-title="NEWS", Kairali News HD
+https://webhop.xyz:443/live/5976336097/4425004958/169797.ts
+
+#EXTINF:-1 tvg-id="kairalinews.in" tvg-name="Kairali News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali-news-in.png" group-title="NEWS", Kairali News
+https://webhop.xyz:443/live/5976336097/4425004958/85929.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AsianetMiddleEast" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asianet_me.png" group-title="", AsianetMiddleEast
+https://webhop.xyz:443/live/5976336097/4425004958/85926.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Kairali We" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="", Kairali We
+https://webhop.xyz:443/live/5976336097/4425004958/150128.ts
+
+#EXTINF:-1 tvg-id="manoramanews.in" tvg-name="Manorama News HD" tvg-logo="https://seeklogo.com/images/M/Manorama_News-logo-2B567168CE-seeklogo.com.png" group-title="", Manorama News HD
+https://webhop.xyz:443/live/5976336097/4425004958/169776.ts
+
+#EXTINF:-1 tvg-id="mazhavilmanorama.in" tvg-name="Manorama News Malayalam" tvg-logo="https://seeklogo.com/images/M/Manorama_News-logo-2B567168CE-seeklogo.com.png" group-title="", Manorama News Malayalam
+https://webhop.xyz:443/live/5976336097/4425004958/249.ts
+
+#EXTINF:-1 tvg-id="news18kerala.in" tvg-name="News 18 Kerala HD" tvg-logo="https://i.ibb.co/GsSLngx/News18-Kerala.png" group-title="", News 18 Kerala HD
+https://webhop.xyz:443/live/5976336097/4425004958/169837.ts
+
+#EXTINF:-1 tvg-id="news18kerala.in" tvg-name="News 18 Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" group-title="",News 18 Kerala
+https://webhop.xyz:443/live/5976336097/4425004958/9036.ts
+
+#EXTINF:-1 tvg-id="ddmalayalam.in" tvg-name="DD Malayalam" tvg-logo="https://i.ibb.co/XDrxKHK/ddmalayalam.png" group-title="", DD Malayalam
+https://webhop.xyz:443/live/5976336097/4425004958/4051.ts
+
+#EXTINF:-1 tvg-id="rajnewsmalayalam.in" tvg-name="Raj News Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raj-news-malayalam-in.png" group-title="", Raj News Malayalam
+https://webhop.xyz:443/live/5976336097/4425004958/9037.ts
+
+#EXTINF:-1 tvg-id="jeevantv.in" tvg-name="JeevanTV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jeevan_tv.png" group-title="", JeevanTV
+https://webhop.xyz:443/live/5976336097/4425004958/85920.ts
+
+#EXTINF:-1 tvg-id="kappatv.in" tvg-name="Kappa TV" tvg-logo="https://i.ibb.co/T1fW3qf/channels4-profile.png" group-title="", Kappa TV
+https://webhop.xyz:443/live/5976336097/4425004958/9039.ts
 
 
 
